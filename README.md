@@ -1,3 +1,8 @@
+The corresponding paper is:
+
+Unified robust network embedding framework for community detection via extreme adversarial attacks, Information Sciences, 2023, 643: 119200.
+
+
 # ea2scd
 EA2SCD
 
@@ -29,6 +34,4 @@ tol = 1e-2;
 
 epsilon = 1e-5;
 
-The corresponding paper is under reviewed by the journal Information Sciences.
 
-"A Unified Robust Network Embedding Framework for Community Detection via Extreme Adversarial Attacks"
